@@ -1,0 +1,644 @@
+.nav{
+   width: 100%;
+    height: 70px;
+    margin-top: 0px;
+    overflow: hidden;
+   background-color: black;
+}
+body{
+    margin: 0;
+}
+.nav-text{
+    float: left;
+    color: white;
+    margin-left: 9cm;
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+
+}
+.nav-text2{
+    
+    color: rgb(36, 9, 9);
+    margin-left: 2cm;
+}
+
+.dropdown{
+    float: left;
+    margin-top:16px;
+    margin-left: 16px;
+    font-weight: bolder;
+    border: 0px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+.nav-text3{
+    float: left;
+    
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Geneva, Tahoma, sans-serif;
+    color: white;
+    margin-top: 31px;
+    
+    margin-left: 16px;
+}
+.icon-nav{
+
+    margin-right: 16px;
+
+}
+
+.outer{
+
+    width: 100%;
+    height: 18cm;
+    background-color: rgb(255, 255, 255);
+}
+.en{
+    margin-left: 15cm;
+    font-weight: bolder;
+}
+.button1{
+      background-color: black;
+      border: 0ch;
+      color: white;
+}
+.button2{
+
+    background-color: black;
+    border: 0ch;
+    color: white;
+
+}
+.button3{
+    background-color: black;
+    border: 0ch;
+    color: white;
+}
+.button4{
+    background-color: rgb(0, 0, 0);
+    border: 0ch;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
+
+.text1{
+    height: 15cm;
+    width: 26cm;
+    margin-left: 13cm;
+    background-color: rgb(255, 255, 255);
+    
+}
+.picture{
+    height: 15cm;
+    width: 15cm;
+    background-color: rgb(255, 145, 0);
+}
+.picture2{
+    height: 15cm;
+
+    width: 12cm;
+    margin-left: 14cm;
+    background-image: url("https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_496,h_592/v1535561382/assets/26/1f9990-25f7-486d-aa25-1a7bef309777/original/D_Rider_Header_Global2x.png");
+    background-color: beige;
+}
+.title1{
+
+    margin-left: 1cm;
+ 
+}
+.title2{
+    float: left;
+   
+    margin-right: 12cm;
+    font-size:  50px;
+    font-weight: 400;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-top: 6cm;
+    color: rgb(0, 0, 0);
+   
+}
+.title3{
+    float: left;
+    margin-right:12cm;
+    font-size: small;
+    font-weight: 100;
+
+    margin-top: 3px;    
+
+}
+.button{
+    float: left;
+    margin-right: 12cm;
+    background-color: black;
+    color: white;
+    height: 45px;
+    width: 4cm;
+    cursor: pointer;
+   
+}
+.outer2{
+
+    width: 100%;
+    height: 10cm;
+    background-color: rgb(255, 255, 255);
+}
+.img-div{
+    width: 80%;
+    height: 7cm;
+    margin-left: 170px;
+    
+    background-color: rgb(255, 255, 255);
+}
+.outer3{
+    width: 100%;
+    height: 10cm;
+    background-color: white;
+}
+.text5{
+
+    margin-left: 10cm;
+    padding-bottom: 1cm;
+}
+
+.rides-on-demand{
+
+    margin-left: 10cm;
+    padding-top: 2cm;
+    width: 10cm;
+    float: left;
+    height: 5cm;
+    background-color: rgb(255, 255, 255);
+}
+.budget-friendly{
+    float: left;
+    padding-top: 2cm;
+    margin-left: 1cm;
+    width: 10cm;
+    height: 5cm;
+    background-color: rgb(255, 255, 255);   
+}
+.An-easy-way{
+    float: left;
+    padding-top: 2cm;
+    margin-left: 1cm;
+    width: 10cm;
+    height: 5cm;
+    background-color: rgb(255, 255, 255);      
+}
+.button-main-div{
+    margin-top: 40px;
+    background-color: white;
+    height: 30px;
+    border-radius: 6px;
+    cursor: pointer;
+    width: 4cm;
+    
+}
+.outer-div3{
+    width: 100%;
+    height: 18cm;
+    background-color: rgb(255, 255, 255);
+}
+.title-div3{
+    margin-left: 10cm;
+    padding-top: 2cm;
+}
+.saftey-features{
+    width: 10cm;
+    margin-left: 10cm;
+    float: left;
+    height: 10cm;
+    background-color: rgb(255, 255, 255);
+
+}
+.icon-div3{
+    padding-top: 12px;
+    height: 50px;
+    width: 50px;
+
+}
+.An-inclusive{
+    width: 10cm;
+    margin-left: 1cm;
+    float: left;
+    height: 10cm;
+    background-color: rgb(255, 255, 255);
+
+}
+.icon2-div3{
+    padding-top: 2cm;
+    height: 50px;
+    width: 50px;
+
+}
+.Help-if{
+    width: 10cm;
+    margin-left: 1cm;
+    float: left;
+    height: 10cm;
+    background-color: rgb(255, 255, 255);
+
+}
+.icon3-div3{
+    padding-top: 2cm;
+    height: 50px;
+    width: 50px;
+}
+.button-div3{
+    margin-top: 1cm;
+    background-color: white;
+    border-radius: 4px;
+    height: 35px;
+    width: 5cm;
+    cursor: pointer;
+
+}
+.outer-div4{
+    width: 100%;
+    height: 15cm;
+    
+    background-color: rgb(255, 255, 255);
+    
+}
+.title-div4{
+    margin-left: 10cm;
+    font-size: 1cm;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.div4-outer{
+    height: 8cm;
+    margin-top: 3cm;
+    width: 22cm;
+    background-color: rgb(255, 255, 255);
+    margin-left: 10cm;
+}
+
+
+
+ .car1{
+
+    width: 10cm;
+    float: left;
+    height: 8cm;  
+    background-color: rgb(255, 255, 255);
+    
+    
+}
+.button-div4{
+    
+    background-color: black;
+    color: white;
+    height: 28px;
+    margin-left: 21px;
+    margin-top: 14px;
+    width: 56px;
+    border-radius: 14px;
+} 
+.car2{
+    float: left;
+    width: 10cm;
+    height: 8cm;
+    background-color: rgb(255, 255, 255);
+    margin-left: 1cm;
+}
+.outer-div5{
+    width: 100%;
+    height: 18cm;
+    background-color: rgb(255, 255, 255);
+}
+.title-div5{
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    margin-left: 10cm;
+    font-size: 1cm;
+    
+}
+.img-div5{
+    width: 14cm;
+    float: left;
+    height: 12cm;
+    background-color: rgb(255, 255, 255);
+    margin-left: 10cm;
+}
+.img2-div5{
+
+    margin-left: 1cm;
+    width: 14cm;
+    float: left;
+    height: 12cm;
+    background-color: rgb(255, 255, 255);
+}
+.button-div5{
+    background-color: white;
+    color: black;
+    margin-top: 1cm;
+    cursor: pointer;
+    width: 3cm;
+    border: 5pxpx;
+    height: 30px;
+}
+.outer-div6{
+    height: 15cm;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+.img-div6{
+    height: 13cm;
+    width: 65%;
+    margin-left: 9cm;
+    background-color:rgb(246, 246, 246);
+    
+}
+.img{
+
+    width: 10cm;
+    float: left;
+    height: 11cm;
+    padding-top: 2cm;
+    padding-left: 3cm;
+    
+    
+    
+}
+.text-div6{
+    
+    width: 19cm;
+    height: 13cm;
+
+    float: left;
+ 
+    
+}
+.title-div6{
+    margin-top: 3cm;
+    padding-left: 5cm;
+    font-weight: 300;
+    font-size:1cm ;
+}
+.button-div6{
+    height: 1cm;
+    background-color: black;
+    color: white;
+    margin-left: 5cm;
+    cursor: pointer;
+    margin-top: 1cm;
+    width: 4cm;
+}
+.outer-div7{
+    height: 12cm;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+.text-div7{
+    margin-left: 10cm;
+    font-weight: 500;
+}
+
+.text-div{
+    
+      width: 25cm;
+      height: 10cm;
+      margin-left: 11cm;
+      
+}
+.text2-div7{
+    padding-top: 1cm;
+    color: black;
+
+}
+.text-q{
+    color: rgb(0, 0, 0);
+    font-size: medium;
+    font-weight: 100;
+}
+.outer-div8{
+
+    padding-top: 1cm;
+    width: 100%;
+    height: 10cm;
+    background-color: rgb(238, 238, 238);
+
+}
+.logo-div{
+    
+    margin-left: 10cm;
+    width: 14cm;
+    height: 5cm;
+    background-color: rgb(255, 255, 255);
+
+
+}
+
+.logo{
+    padding: 25px;
+    cursor: pointer;
+    
+}
+.title-do-more{
+    
+    margin-left: 10cm;
+    font-weight: 300;
+    font-size: 1cm;
+}
+.h4{
+    padding-top: 2cm;
+    font-size: large;
+    float: left;
+    font-weight: 200;
+}
+.icon-arrow{
+    font-weight: bolder;
+    height: 20px;
+    margin-left: 4cm;
+    width: 20px;
+    cursor: pointer;
+    padding-top: 2.5cm;
+}
+.outer-div9{
+    height: 10cm;
+    width: 100%;
+}
+.text-div9{
+    margin-left: 10cm;
+    margin-top: 30px;
+    font-size: xx-large;
+    font-weight: 500;
+}
+.text-div9{
+    width: 14cm;
+    height: 4cm;
+    background-color: rgb(255, 255, 255);
+}
+.sign-up{
+    font-size: xx-large;
+    font-weight: 500;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding-top: 1cm;
+    float: left;
+    cursor: pointer;
+
+}
+.icon-arrow2{
+    font-weight: bolder;
+    height: 35px;
+    margin-left: 6cm;
+    cursor: pointer;
+    width: 35px;
+    padding-top: 2cm;
+}
+.footer-outer{
+    width: 28cm;
+    height: 13cm;
+    margin-left: 5cm;
+    background-color: rgb(0, 0, 0);
+}
+
+.footer{
+    width: 100%;
+    height: 26cm;
+    background-color: rgb(0, 0, 0);
+
+}
+.footer-inner-div{
+    
+    
+    height: 14cm;
+    width: 35cm;
+    margin-left: 2cm;
+    margin-top: 2cm;
+    background-color: rgb(0, 0, 0);
+}
+.footer-text1{
+    width: 8cm;
+    float: left;
+    height: 8cm;
+    
+
+}
+.footer-text2{
+    width: 8cm;
+    float: left;
+    height: 8cm;
+
+
+}
+.footer-text3{
+    width: 8cm;
+    float: left;
+    height: 8cm;
+    
+}
+.footer-text4{
+    width: 3cm;
+    height: 8cm;
+    float: left;
+
+}
+.title-head{
+    font-family:UberMove, UberMoveText, system-ui,;
+    margin-left: 3cm;
+    padding-top: 2cm;
+    font-size: 15px;
+    font-weight: 300;
+    color: white;
+}
+.head-text{
+    color: white;
+    margin-left: 1cm;
+    font-size: large;
+    font-weight: 400;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+
+li{
+    color: rgb(255, 255, 255);
+    margin-top: 19px;
+    font-size: 14px;
+    list-style: none;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    
+    
+}
+.footer-bottom{
+    width: 25cm;
+
+    height: 3cm;
+    margin-left: 8cm;
+    margin-top: 2cm;
+    float: left;
+    background-color: rgb(0, 0, 0);
+
+}
+.facebook{
+    cursor: pointer;
+    font-size: 18px;
+    color: white;
+    margin-top: 1.5cm;
+    float: left;    
+}
+.icon-footer{
+    cursor: pointer;
+    font-size: 18px;
+    color: white;
+    float: left;
+    margin-left: 1cm;
+    margin-top: 1.5cm;
+}
+.icon-en-footer{
+
+    cursor: pointer;
+    font-size: 14px;
+    color: white;
+    background-color: black;
+    border: 0px;
+    float: left;
+    margin-left: 1cm;
+    
+    
+}
+
+.download{
+    height: 3cm;
+    width: 10cm;
+    float: left;
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    
+}
+.playstore{
+    cursor: pointer;
+    width: 150px;   
+    height: 3cm;
+}
+.app-store{
+
+    cursor: pointer;
+    width: 150px;   
+    height: 3cm;
+}
+.footer-text-small{
+    margin-left: 2cm;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    color: white;
+    float: left;
+}
+.footer-text2-small{
+    float: left;
+
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    margin-left: 1cm;
+    color: white;
+}
